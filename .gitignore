@@ -125,10 +125,16 @@ celerybeat.pid
 .env
 .venv
 courseenv/
+courseenvtf/
+courseenvfull/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# GloVe Embeddings
+glove.6B.50d.txt
+glove.6B.100d.txt
 
 # Spyder project settings
 .spyderproject
