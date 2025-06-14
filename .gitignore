@@ -138,6 +138,7 @@ glove.6B.100d.txt
 
 # Bert weights
 bert_tf/
+finetune_bert_torch.pth
 
 # Spyder project settings
 .spyderproject
