@@ -136,9 +136,12 @@ venv.bak/
 glove.6B.50d.txt
 glove.6B.100d.txt
 
-# Bert weights
+# Model weights
 bert_tf/
 finetune_bert_torch.pth
+lstm_pt.pth
+lstm_tf_pretrainedtokenizer.h5
+lstm_tf.h5
 
 # Spyder project settings
 .spyderproject
