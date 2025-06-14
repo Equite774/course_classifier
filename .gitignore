@@ -136,6 +136,9 @@ venv.bak/
 glove.6B.50d.txt
 glove.6B.100d.txt
 
+# Bert weights
+bert_tf/
+
 # Spyder project settings
 .spyderproject
 .spyproject
